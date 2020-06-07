@@ -1,5 +1,5 @@
 # <h1>Stanford Machine Learning<h1/>
-All the programming assignment solution in Machine Learning course from Stanford University in Coursera platform taught by Andrew Ng, Try to solve all the assignments by yourself first, but if you get stuck somewhere then feel free to browse the code.
+All the programming assignments solution in Machine Learning course from Stanford University in Coursera platform taught by Andrew Ng, Try to solve all the assignments by yourself first, but if you get stuck somewhere then feel free to browse the code.
 
 # Contents:
 * Lectures Slides
